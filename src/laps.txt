@@ -1,0 +1,10 @@
+Laps Times
+Make    Model   Year    Time
+Toyota  Hilux   2019    15.4
+Mercedes Gwagon 2015    18.5
+Jaguar  FX      2005    19.8
+Mazda   Demio   2012    25.8
+Rover   Range   2019    15.4
+BMW     M5      2015    12.5
+Nissan  Patrol  2005    55.8
+Toyota  Runx    2012    48.8
